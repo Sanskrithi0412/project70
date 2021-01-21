@@ -1,0 +1,51 @@
+.line {
+    height: 6px;
+    width: 70px;
+    background-color: blueviolet;
+    margin: 8px auto;
+    text-align: left;
+}
+
+#school {
+    text-align: center;
+}
+
+#contact {
+    text-align: center;
+}
+
+#contact iframe
+{
+    width: 100%;
+}
+
+.marquee {
+    height: 50px;
+    overflow: hidden;
+    position: relative;
+    background-color: azure;
+    color:firebrick;
+    border: 1px solid #4a4a4a;
+    text-align: center;
+}
+.achievements_head
+{
+    font-size: 15px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+.achievements_head i
+{
+    float: right;
+}
+.achievements_head span
+{
+    color: #ff7700;
+}
+.i
+{
+ text-align: right;
+}
